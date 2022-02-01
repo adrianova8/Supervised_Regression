@@ -1,7 +1,7 @@
 # S10 T02: Supervised Regression
 
 **Target:**
- * Regression models
+* Regression models
 * Regression trees
 * Random Forest
 * Neural Networks
