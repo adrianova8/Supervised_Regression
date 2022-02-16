@@ -1,6 +1,6 @@
 # S10 T02: Supervised Regression
 
-**Target:**
+**Target:*
 * Regression models
 * Regression trees
 * Random Forest
